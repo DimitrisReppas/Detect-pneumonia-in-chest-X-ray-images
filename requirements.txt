@@ -1,0 +1,6 @@
+opencv-python
+pandas
+seaborn
+tensorflow
+scikit-learn
+imblearn
